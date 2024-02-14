@@ -1,14 +1,7 @@
-# Food-Ordering-App
-simple food ordering android app
+# Food-Delivery-App
+Simple Food Delivery Application designed and developed using Android Studio
 
 
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
-![](6.png)
-![](7.png)
 
 
 
